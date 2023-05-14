@@ -1,0 +1,15 @@
+.titulo{
+    background-color: #25B2C2;
+}
+.matriz{
+    width: 270px;
+}
+.caja{
+    width: 50px;
+    margin-bottom: 1px;
+    outline: none;
+    border: none;
+    background-color: #25B2C2;
+    text-align: center;
+    color: white;
+}
